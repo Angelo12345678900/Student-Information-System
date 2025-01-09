@@ -1,0 +1,15 @@
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\bin\Debug\Student Information System.exe
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\bin\Debug\Student Information System.pdb
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\bin\Debug\Student Information System.xml
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student Information System Final.vbproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student_Information_System.frmlogin.resources
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student_Information_System.frmadd.resources
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student_Information_System.frmedit.resources
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student_Information_System.frmmain.resources
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student_Information_System.frmRegister.resources
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student_Information_System.Resources.resources
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student Information System Final.vbproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student Information System Final.vbproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student Information System.exe
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student Information System.xml
+C:\Users\Angelo\Desktop\Student Information System Final\Student Information System Final\Student Information System Final\obj\Debug\Student Information System.pdb
